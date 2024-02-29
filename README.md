@@ -1,2 +1,2 @@
 # Computational-Astronomy-Project-
-KCAP 2023 Assignment
+This is my submission for the KCAP 2023 assignment by Krittika Club, IIT Bombay.
